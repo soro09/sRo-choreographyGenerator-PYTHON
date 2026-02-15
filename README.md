@@ -1,6 +1,8 @@
 # sRo-choreographyGenerator-PYTHON
 Python program that generates randomized ballet combinations for practice or choreography ideas. It creates sequences based on dance style, counts per measure, and the number of measures, with colorful terminal output for easy readability.
 
+The program is intended to aid both teachers and students of the ballet community train with more efficiency through a technological approach.
+
 --Features
 - Supports three ballet styles:
   adagio – slow, lyrical movements
